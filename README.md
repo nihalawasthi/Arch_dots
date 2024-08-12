@@ -1,4 +1,4 @@
-<div align="center"><img width="12%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/arch.png"/><br></div>
+<div align="center"><a href="https://github.com/nihalawasthi/Arch_dots"><img width="12%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/arch.png"/></a><br></div>
 
 ## Installation
 
